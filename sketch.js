@@ -19,6 +19,11 @@ function setup() {
 function draw() {
   background(35,15,43);
   
+  textSize(18);
+  textAlign(CENTER);
+  fill(242,29,65)
+  text('CLICK FOR DROPPING',width/2,height/2)
+  
   //iterate on the array
   for(var i=0; i< bombs.length; i++) {
     var fallingSpeed = 5;
