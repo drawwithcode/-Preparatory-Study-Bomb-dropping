@@ -1,4 +1,4 @@
-# ✈️ 💣 💣 💣 Bomb-Dropping (simple implementation)
+# Bomb-Dropping (simple implementation) ✈️ 💣 💣 💣 
 This sketch is a preparatory study which demonstrates how to simulate elements dropping from the top.
 No gravitational accelleration is implemented.
 [Demo](https://drawwithcode.github.io/Bomb-Dropping/).
